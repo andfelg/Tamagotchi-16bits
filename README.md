@@ -6,12 +6,8 @@ A Tamagotchi-style game made with java
 
 ## Usage
 
+
 ### step 1
-
-create a ./data folder in the path of the project to save the game data.
-
-
-### step 2
 
 compile
 
@@ -19,7 +15,7 @@ compile
 javac Main.java
 ```
 
-### step 3
+### step 2
 
 execute
 
